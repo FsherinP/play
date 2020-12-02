@@ -1,0 +1,12 @@
+name|transaction_type|category|amount|date
+ice-cream|0|food|50|2020-10-10
+book|0|grocery|200|2020-10-10
+pen|0|grocery|10|2020-10-11
+dress|0|shopping|1200|2020-11-1
+lunch|0|food|440|2020-11-10
+movie|0|entertainment|350|2020-11-10
+petrol|0|travel|1500|2020-11-15
+salary|1|salary|44000|2020-11-13
+lottery|1|others|50000|2020-11-15
+prize|1|events|1000|2020-11-25
+scholarship|1|scholarship|14500|2020-11-30
